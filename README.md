@@ -1,33 +1,118 @@
 # 📊 Customer Churn & Revenue Risk Analysis
 
-## 🚀 Project Overview
-This project focuses on analyzing customer churn behavior and identifying revenue risks using a telecom dataset. The goal is to uncover key factors driving churn and provide actionable business insights to improve customer retention.
+## 🚨 Problem Statement
+
+Customer churn is one of the biggest challenges for subscription-based businesses. High churn directly impacts revenue, customer lifetime value (LTV), and growth.
+
+In this project, the goal is to analyze customer data to:
+
+* Identify key drivers of churn
+* Segment high-risk users
+* Provide actionable business recommendations to improve retention
 
 ---
 
-## 🔧 Tools & Technologies
-- Power BI
-- DAX
-- Excel / CSV Dataset
-- Data Cleaning & Transformation
+## 📁 Dataset Overview
+
+* Dataset: Telecom Customer Data
+* Records: 10,000+ customers
+* Features include:
+
+  * Customer demographics
+  * Contract type
+  * Tenure
+  * Monthly charges
+  * Payment methods
+  * Churn status
 
 ---
 
-## 📊 Key Insights
-- Overall Customer Churn Rate: **33.14%**
-- Month-to-Month contracts have the highest churn (~46%)
-- Customers in first 0–6 months show highest churn (~67%)
-- High-risk customers contribute ~6% revenue exposure
-- Churned customers have higher avg monthly charges (94 vs 73)
+## 🛠️ Tools & Technologies
+
+* SQL (Data extraction & segmentation)
+* Power BI (Dashboard & visualization)
+* Excel (Data cleaning & preprocessing)
 
 ---
 
-## 💡 Business Recommendations
-- Promote long-term contracts with incentives
-- Improve onboarding experience for new customers
-- Target high-risk customers with retention strategies
-- Optimize pricing & discount strategies
-- Monitor churn-prone segments continuously
+## 🔍 Data Analysis Process
+
+### 1. Data Cleaning
+
+* Handled missing values
+* Standardized categorical variables
+* Validated data consistency
+
+### 2. SQL Analysis
+
+* Extracted relevant customer segments
+* Calculated churn rate across segments
+* Analyzed tenure-based retention patterns
+
+### 3. Exploratory Data Analysis (EDA)
+
+* Identified patterns in churn behavior
+* Compared churn vs non-churn users
+* Analyzed impact of pricing, tenure, and contract type
+
+---
+
+## 📈 Key Insights
+
+ 🔹 Overall churn rate: **~33%**
+ 🔹 ~46% churn in **month-to-month users** → low commitment segment
+ 🔹 ~67% churn occurs within **first 6 months** → onboarding issue
+ 🔹 High-risk users contribute to **~6% potential revenue loss**
+ 🔹 Churned users had higher avg. charges (**₹94 vs ₹73**) → pricing sensitivity
+
+---
+
+## 📊 Dashboard Features
+
+* KPI Cards: Churn %, Revenue Risk
+* Customer Segmentation (Contract Type, Tenure)
+* Churn Trend Analysis
+* High-Risk Customer Identification
+* Interactive Filters for deep analysis
+
+---
+
+## 💡 Business Insights (Product Thinking)
+
+* Early churn indicates **weak onboarding experience**
+* Higher pricing leads to **low perceived value**
+* Month-to-month users show **low retention and loyalty**
+
+---
+
+## 🛠️ Recommendations
+
+* Improve onboarding experience (first 7–14 days critical)
+* Introduce long-term subscription plans with incentives
+* Target high-risk users with personalized retention strategies
+* Optimize pricing to improve customer satisfaction and retention
+
+---
+
+## 📊 Business Impact
+
+This analysis can help:
+
+* Reduce customer churn
+* Improve retention rate
+* Increase customer lifetime value (LTV)
+* Protect recurring revenue
+
+---
+
+## 🚀 Project Outcome
+
+This project demonstrates the ability to:
+
+* Work with real-world business problems
+* Analyze data using SQL & BI tools
+* Translate data into actionable insights
+* Apply product thinking in analytics
 
 ---
 
@@ -36,31 +121,13 @@ https://github.com/Simrannegi02/customer-churn-analysis_powerbi/blob/main/Screen
 
 ---
 
-## 📁 Dataset
-Synthetic_customer dataset (cleaned and transformed)  (sourced from Kaggle).
-
----
-
 ## 🔗 Project Files
-- Power BI Dashboard (.pbix)
-- Dataset (.csv)
+- 📊 Power BI Dashboard (.pbix)
+- 💻 Dataset (.csv)
 
----
 
-## 🎯 Key Skills Demonstrated
-- Data Cleaning & Transformation
-- Data Visualization
-- KPI Analysis
-- Business Insights Generation
-- Dashboard Development
+## ⭐ If you found this useful
 
----
+Feel free to ⭐ the repo and connect with me on LinkedIn!
 
-## 📌 Conclusion
-This project demonstrates how data analytics can help businesses reduce churn and improve decision-making by identifying key risk factors and trends.
-
----
-
-## 🙋‍♀️ About Me
-Aspiring Data Analyst skilled in Excel, SQL, and Power BI, focused on turning data into actionable business insights.
 
