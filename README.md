@@ -122,8 +122,8 @@ https://github.com/Simrannegi02/customer-churn-analysis_powerbi/blob/main/Screen
 ---
 
 ## 🔗 Project Files
-- 📊 Power BI Dashboard (.pbix)
-- 💻 Dataset (.csv)
+- 📊 Power BI Dashboard (https://github.com/Simrannegi02/customer-churn-analysis_powerbi/blob/main/Screenshot%202026-03-05%20125148.png)
+- 💻 Dataset (https://github.com/Simrannegi02/customer-churn-analysis_powerbi/blob/main/synthetic_customer_churn_100k.csv)
 
 
 ## ⭐ If you found this useful
